@@ -1,4 +1,4 @@
-﻿# PID VID tracer, gets the USB info on a windows machine and adds Vender and product text whne available. See instructions at end how to run
+﻿# PID VID tracer, gets the USB info on a windows machine and adds vendor and product text when available. See instructions at end how to run
 
 
 $ProcessFolder = "E:\Temp\UsbCheck\" #!! Replace with your own
